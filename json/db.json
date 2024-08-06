@@ -1,0 +1,19 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Tomato",
+      "type": "Vegetable",
+      "waterFrequency": "Daily",
+      "notes": "Needs full sun."
+    },
+    
+    {
+      "id": "da10",
+      "name": "MAAZ",
+      "type": "insaan",
+      "waterFrequency": "daily",
+      "notes": "neeed sun"
+    }
+  ]
+}
